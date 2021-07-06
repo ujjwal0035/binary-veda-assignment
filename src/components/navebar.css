@@ -1,0 +1,27 @@
+.link{
+    width:200px;
+    height:70px;
+    color: white;
+    background-color: transparent;
+    font-size: 10px;
+    text-decoration: none !important;
+    margin: 10px;
+    padding: 5px;
+}
+.cli{
+    background-color: white;
+    border-radius: 15px;
+    color:black
+}
+select{
+    background-color: transparent;
+    border: none;
+    
+}
+h5{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    color: white;
+    width:300px
+}

@@ -1,0 +1,35 @@
+.greating{
+    margin-top: 100px;
+}
+h3{
+    color:white
+}
+h3:first-child{
+    margin-top: 50px;
+}
+h6{
+    color: white;
+    font-size: 10px;
+}
+
+button{
+    height: 50px;
+    border-radius: 20px !important;
+    margin: 10px;
+    border: none;
+    background-color: white;
+}
+.clicked{
+    background-color: rgb(81, 196, 216) !important;
+}
+img.dis{
+    height: 300px;
+    width:100%;
+}
+Col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

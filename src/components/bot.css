@@ -1,0 +1,15 @@
+.bot{
+    margin-top: 100px;
+}
+.bot button{
+    background-color: transparent;
+    border:2px solid white;
+    color: white;
+    border-radius: 10px;
+}
+.pushed{
+    background-color: white !important;
+    border:2px solid white !important;
+    color: black !important;
+    border-radius: 10px;
+}
