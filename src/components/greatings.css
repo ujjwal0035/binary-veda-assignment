@@ -1,19 +1,30 @@
 .greating{
     margin-top: 100px;
 }
+h2{
+    color:white
+}
+h2:first-child{
+    margin-top: 50px;
+}
+h6{
+    color: white;
+    font-size: 15px;
+}
+h5{
+    color: white;
+    font-size: 15px;
+}
 h3{
     color:white
 }
 h3:first-child{
     margin-top: 50px;
 }
-h6{
-    color: white;
-    font-size: 10px;
-}
 
 button{
     height: 50px;
+    width: 250px;
     border-radius: 20px !important;
     margin: 10px;
     border: none;

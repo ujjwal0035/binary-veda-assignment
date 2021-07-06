@@ -12,8 +12,8 @@ const Greatings = () => {
         <Container className="greating">
             <Row >
                 <Col md="6">
-                    <h3 style={{marginBottom:"3px"}}>Let's build the future </h3>
-                    <h3 style={{marginBottom:"20px"}}>of design, now.</h3>
+                    <h2 style={{marginBottom:"3px"}}>Let's build the future </h2>
+                    <h2 style={{marginBottom:"20px"}}>of design, now.</h2>
                     <h6>Create amazing tools and integration for 1 million</h6>
                     <h6>users of customise for your team.</h6>
                     <button 
